@@ -17,6 +17,7 @@
 
 </details>
 
+<a href="https://trendshift.io/repositories/11803" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11803" alt="LibraHp%2FGetQzonehistory | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 该项目通过获取QQ空间的历史消息列表来获取该账号下发布的所有说说（当然消息列表中没有的就获取不到，例如一些仅自己可见的说说）[B站有详细食用教程](https://space.bilibili.com/1117414477)
 
